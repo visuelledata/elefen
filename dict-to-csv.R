@@ -62,5 +62,6 @@ entries %>%
   mutate(word = str_remove_all(word, "\n[A-Za-z]+:(.*)"),
          word = str_remove(word, "^\\.")) %>% 
   mutate_all(str_trim) %>% 
+  select(word_id, word, gramatica, defini, en, eo, es, fr, everything())
   write_csv("elefin_dict.csv") %>% 
   View
