@@ -1,112 +1,373 @@
-word_id,word,gramatica,defini,en,eo,es,fr,capital,nota,vide,orijina,tasonomia,pronuncia,simbol,usa,an,da,de,gl,he,mt,ru,common
-5,-a,sufisa nom,ajuntada a alga nomes mas con la coda `-o` per nomi la fema corespondente; ajuntada a la nom de un arbor con la coda `-o` per formi la nom de sua fruta o noza,female; fruit,NA,femenino,féminin,NA,NA,-o,NA,NA,NA,NA,tio/tia; pero/pera; oranio/orania,NA,NA,NA,NA,he: (סיומת) הצורה הנקבית (במילים מסוימות),NA,NA,TRUE
-3367,-eta,sufisa verbo,ajuntada a un verbo per formi un otra verbo indicante la mesma ata en modo min intensa,(weaker variant) -le,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,pluveta,NA,NA,NA,NA,NA,NA,NA,TRUE
-98,-ador,sufisa nom util,ajuntada per nomi un macina o util (o,-er (tool,-ilo,NA,-ateur,NA,NA,NA,NA,NA,NA,NA,computador; cloador; silentador; inibador,NA,NA,NA,NA,he: (סיומת) מכשיר או כלי,NA,NA,TRUE
-3223,-eria,sufisa nom,ajuntada a un verbo,-ery,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,refineria; paneria; monceria; beleria,NA,NA,NA,NA,NA,NA,NA,TRUE
-4213,-i,sufisa verbo nontransitiva,ajuntada a un ajetivo o nom per formi un verbo nontransitiva per la ata de deveni tal,become,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,la acua profondi; la visitores grupi,NA,NA,NA,NA,NA,NA,NA,TRUE
-2735,dis-,prefisa tecnical,mal,dys- (bad,NA,NA,dys- (mal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) רע,NA,NA,TRUE
-4360,-in,sufisa ajetivo,ajuntada a un ajetivo o nom per formi un ajetivo descrivente un person o cosa con cualias o tendes simil,-ish,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,amin; serpentin,NA,NA,NA,NA,NA,NA,NA,TRUE
-3255,-esa,sufisa nom,ajuntada a un nom per crea un titulo formal per un fem,-ess (formal female title),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,prinsesa,NA,NA,NA,NA,NA,NA,NA,TRUE
-425,anti-,prefisa,ajuntada a ajetivos e nomes per formi ajetivos de oposa o ataca,anti- (opposition),NA,NA,anti-,NA,NA,NA,de elinica anti- (contra),NA,NA,NA,antisosial; antiavional; antifungal; antieroe; antiproton,NA,NA,NA,NA,he: (קידומת) נגד,NA,NA,TRUE
-321,-an,sufisa nom cimica,idrocarbono saturada,-an (saturated hydrocarbon),NA,NA,-ane (hydrocarbure saturé),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) פחמימה רוויה,NA,NA,TRUE
-4218,-ia,sufisa nom,ajuntada a un ajetivo o nom per nomi la cualia astrata de es tal; ajuntada a nomes de postos (e cosas simil) per nomi la estende de la posto en tempo o spasio,-ness,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,felisia; en mea enfantia; la jornal de la bispia,NA,NA,NA,NA,NA,NA,NA,TRUE
-2488,-da,sufisa ajetivo,ajuntada a un verbo per formi la partisipio pasiva,-ed,NA,-ado,-é|-ée,NA,La partisipio pasiva es un ajetivo cual indica ce on fa (o ia fa) la ata de la verbo a la person o cosa cual la partisipio descrive (un mesaje ascondeda es un mesaje cual on ia asconde). On usa lo ance como un nom,NA,NA,NA,NA,NA,ascondeda; tu ia asconde un mesaje e me ia trova tua mesaje ascondeda; la mesaje ia es ascondeda,NA,NA,NA,NA,he: (סיומת) בינוני פעול (צורות פעול,NA,NA,TRUE
-3367,-eta,sufisa nom,ajuntada a un nom per nomi un varia plu peti,(smaller or simpler variant) -ette,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,caseta; gradeta; boveta; camiseta; sibileta,NA,NA,NA,NA,NA,NA,NA,TRUE
-6092,-o,sufisa nom,ajuntada a alga nomes fema con la coda `-a` per nomi la mas corespondente; ajuntada a la nom de un fruta con la coda `-a` per nomi sua arbor,male; tree,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,ava/avo; poma/pomo,NA,NA,NA,NA,NA,NA,NA,TRUE
-3733,foto-,prefisa tecnical,lus o fotografia,photo- (light,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-2646,di-,prefisa tecnical,du,di- (two),NA,NA,di- (deux),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) שניים,NA,NA,FALSE
-4687,-jenese,sufisa nom medica biolojia siensa-umana,causa o orijina,-genesis (origin),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-3061,emo-,prefisa tecnical medica biolojia,sangue,hemo-|ae (blood),NA,NA,hémo- (sang),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) דם,NA,NA,FALSE
-3254,esa-,prefisa tecnical,ses,hex- (six),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-3623,-fise,sufisa nom medica,crese,-physis (growth),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-395,aniso-,prefisa tecnical,diferente,aniso- (unequal),NA,NA,aniso- (inégal),NA,NA,NA,de elinica anisos (nonegal),NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) שונה,NA,NA,FALSE
-4701,jeo-,prefisa tecnical,tera,geo- (Earth),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-2406,cuatri-,prefisa tecnical,un cuatri de,quarter-,NA,NA,quart,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) רבע,NA,NA,FALSE
-152,-agra,sufisa nom medica,dole subita,-agra (pain),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) כאב פתאומי,NA,NA,FALSE
-753,-ato,sufisa nom cimica,un sal de un asida de cual sua nom fini con `-ica`,-ate (chemistry),NA,NA,-ate (suffixe ; chimie),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) מלח,NA,NA,FALSE
-2601,des-,prefisa verbo,ajuntada a un verbo per nomi la reversa de un ata,dis-,NA,NA,dé-,NA,`Des-` simpli a `de-` ante S,NA,NA,NA,NA,NA,descarga; dejela,NA,NA,NA,NA,he: (קידומת) הפעולה ההפוכה,NA,NA,FALSE
-3364,et-,prefisa tecnical cimica,nominte alcanos e otra idrocarbonos con du atomes de carbono,eth- (chemistry),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-3685,-fonia,sufisa nom fisica arte medica,sona o vose,-phony (sound),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-3252,-es,sufisa ajetivo,ajuntada a un nom jeografial per formi un ajetivo pertinente a la loca,-ese,NA,NA,NA,NA,NA,-an,NA,NA,NA,NA,nederlandes,NA,NA,NA,NA,NA,NA,NA,FALSE
-3116,enea-,prefisa matematica,nove,ennea-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-1246,braci-,prefisa tecnical,corta,brachy- (short),NA,NA,brachy- (court),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) קצר,NA,NA,FALSE
-3666,-fobia,sufisa nom siensa-umana,teme,-phobia (fear),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-1834,cloro-,prefisa tecnical,verde,chloro-,NA,NA,chloro- (chimie),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) ירוק,NA,NA,FALSE
-2879,dura-,prefisa tecnical,dur,dura- (hard),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) קשה,NA,NA,FALSE
-3600,filo-,prefisa tecnical,ama de,philo- (love),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-5876,nano-,prefisa tecnical,multe peti; {10^-9},nano- (tiny,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-3338,estra-,prefisa tecnical,a estra,extra- (outer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-7756,-s,sufisa,ajuntada per plurali un nom cual fini con un vocal,-s (plural of noun that ends in a vowel),NA,NA,NA,NA,NA,-es,NA,NA,NA,NA,gatos,NA,NA,NA,NA,NA,NA,NA,FALSE
-447,antropo-,prefisa tecnical,umanas,anthropo-,NA,NA,anthropo-,NA,NA,NA,de elinica anthropos (umana),NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) שקשור בבני אדם,NA,NA,FALSE
-3591,-filia,sufisa nom siensa-umana,ama,-philia (love),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-540,arceo-,prefisa tecnical,antica,archeo-|ae,NA,NA,archéo-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) עתיק,NA,NA,FALSE
-510,apto-,prefisa tecnical,juntante,hapto- (attachment),NA,NA,hapto- (préfixe),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) צמוד,NA,NA,FALSE
-286,amfi-,prefisa tecnical,ambos,amphi-,NA,NA,amphi-,NA,NA,NA,de elinica amphi- (ambos,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) שני הצדדים,NA,NA,FALSE
-705,-astenia,sufisa nom medica,debilia,-asthenia,NA,NA,-asthénie,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) שקשור לחולשה,NA,NA,FALSE
-4680,-jen,sufisa ajetivo medica biolojia siensa-umana,produinte o produida par; pertinente a jenes,-genic (producing),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-2324,cripto-,prefisa tecnical,secreta,crypto-,NA,NA,crypto-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) סודי,NA,NA,FALSE
-3701,-foria,sufisa nom siensa-umana medica,senti o emosia,-phoria (feeling),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-3153,-ente,sufisa ajetivo,ajuntada a un verbo per formi la partisipio ativa,-ing,NA,NA,NA,NA,Esta varia de `-nte` es usada sola con la verbo `es`. :: This variant of `-nte` is only used with the verb `es`.,NA,NA,NA,NA,NA,esente,NA,NA,NA,NA,NA,NA,NA,FALSE
-209,-aljia,sufisa nom medica,dole,-algia (pain),NA,NA,-algie,NA,NA,NA,de elinica algos (dole),NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) שקשור לכאב,NA,NA,FALSE
-3450,-faje,sufisa nom biolojia medica,comor,-phage (eater),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-758,-atresia,sufisa nom medica,la asentia,-atresia (medical),NA,NA,-atrésie (médecine),NA,NA,NA,de elinica a- (sin) tresis (perfora),NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) חסימה של פתח בגוף,NA,NA,FALSE
-3252,-es,sufisa nom,nominte un abitor o lingua de un rejion spesifada,-ese,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-3365,eta-,prefisa tecnical,sete,hepta- (seven),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-2600,desi-,prefisa tecnical,un desi de,deci- (a tenth),NA,NA,déci- (un dixième d'unité),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) עשירית,NA,NA,FALSE
-518,aracno-,prefisa tecnical,arania,arachno- (spider),NA,NA,arachno-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) שקשור לעכבישים,NA,NA,FALSE
-1849,co-,prefisa tecnical,con,co- (with,NA,NA,co- (avec,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) עם,NA,NA,FALSE
-3055,emi-,prefisa tecnical,dui,hemi-,NA,NA,semi-,NA,NA,semi-,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) חצי,NA,NA,FALSE
-2723,diplo-,prefisa tecnical,duple,diplo- (double),NA,NA,diplo- (double),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) כפול,NA,NA,FALSE
-2353,cromo-,prefisa tecnical,color,chromo-,NA,NA,chromo-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) צבע,NA,NA,FALSE
-3253,-es,sufisa,ajuntada per plurali un nom cual fini con un consonante,-s (plural of noun that ends in a consonant),NA,NA,NA,NA,NA,-s,NA,NA,NA,NA,canes,NA,NA,NA,NA,NA,NA,NA,FALSE
-752,ato-,prefisa tecnical,{10^-18},atto-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-2929,ecui-,prefisa tecnical,egal,equi-,NA,NA,équi-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) שווה,NA,NA,FALSE
-5882,narco-,prefisa tecnical,nonsensosa,narco- (stupor),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-2406,cuatro-,prefisa tecnical,cuatro,quadr-,NA,NA,quadr-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) ארבע,NA,NA,FALSE
-2818,dolico-,prefisa tecnical,longa,dolicho- (long),NA,NA,dolicho- (long),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) ארוך,NA,NA,FALSE
-1570,-cardia,sufisa nom medica,cor,-cardia (heart),NA,NA,-cardie (cœur),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) שקשור בלב,NA,NA,FALSE
-400,anjio-,prefisa tecnical medica,dutos sangual,angio- (blood vessels),NA,NA,angio- (vaisseaux sanguins),NA,NA,NA,de elinica angeion (vaso,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) שקשור לכלי הדם,NA,NA,FALSE
-3089,-en,sufisa nom cimica,idrocarbono nonsaturada,-ene (chemistry),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-3377,etero-,prefisa tecnical,diferente,hetero- (different),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-3251,es-,prefisa tecnical,estra,ex- (outside),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-2567,demo-,prefisa tecnical,popla,demo- (people),NA,NA,démo- (peuple),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) אוכלוסייה,NA,NA,FALSE
-3703,-forma,sufisa ajetivo biolojia medica matematica,con forma de,-form,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-2922,ecto-,prefisa tecnical,estra,ecto- (outside),NA,NA,ecto- (dehors),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) חיצוני,NA,NA,FALSE
-1249,bradi-,prefisa tecnical,lenta,brady- (slow),NA,NA,brady- (lent),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) לאט,NA,NA,FALSE
-2924,-ectomia,sufisa nom medica,estrae sirurjial,-ectomy (surgery),NA,NA,-ectomie (chirurgie),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) הסרה בניתוח,NA,NA,FALSE
-1364,but-,prefisa tecnical cimica,nominte alcanos e otra idrocarbonos con cuatro atomes de carbono,but- (chemistry),NA,NA,but- (chimie,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) אלקן בעל 4 אטומי פחמן,NA,NA,FALSE
-2314,-crin,sufisa ajetivo biolojia medica,secrete,-crine (secreting),NA,NA,-crine (sécrétion),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) מפריש,NA,NA,FALSE
-641,-ase,sufisa nom medica,maladia,-asis (medical),NA,NA,-ase (médecine),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) מחלה,NA,NA,FALSE
-3686,fono-,prefisa tecnical fisica arte util,sona,phono-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-72,acua-,prefisa tecnical,acua,aqua-,NA,NA,aqua-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת) שקשור למים,NA,NA,FALSE
-486,aplo-,prefisa tecnical,solitar,haplo- (single),NA,NA,haplo- (simple),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) יחיד,NA,NA,FALSE
-2357,crono-,prefisa tecnical,tempo,chrono-,NA,NA,chrono-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) זמן,NA,NA,FALSE
-1754,cilo-,prefisa tecnical,(un mesura) multiplida par 1000,kilo-,NA,NA,kilo- (mille),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) קילו-,NA,NA,FALSE
-358,andro-,prefisa tecnical siensa-umana,mas,andro- (male),NA,NA,andro-,NA,NA,NA,de elinica andr- (om),NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) שקשור למין זכר,NA,NA,FALSE
-357,-andria,sufisa nom siensa-umana,mas,-andry,NA,NA,-andrie,NA,NA,NA,de elinica andr- (om),NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) שקשור למין זכר,NA,NA,FALSE
-213,alo-,prefisa tecnical,otra,allo- (other),NA,NA,allo-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) אחר או נוסף,NA,NA,FALSE
-3445,fago-,prefisa tecnical,come,phago- (eating),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-2921,ecto-,prefisa tecnical,(un mesura) multiplida par 100,hecto- (hundred),NA,NA,hecto- (cent),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) מאה,NA,NA,FALSE
-3399,eu-,prefisa tecnical,bon,eu- (good),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-1995,con-,prefisa tecnical,con,con- (with,NA,NA,con- (avec,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) עם,NA,NA,FALSE
-3052,-emese,sufisa nom medica,vomiti,-emesis (vomiting),NA,NA,-émèse (vomir),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) הקאה,NA,NA,FALSE
-3230,eritro-,prefisa tecnical,roja,erythro- (red),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-640,-ase,sufisa nom cimica,enzima,-ase (enzyme),NA,NA,-ase (enzyme),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) אנזים,NA,NA,FALSE
-295,amil-,prefisa tecnical biolojia,amidon,amyl-,NA,NA,amyl-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) שקשור לעמילן,NA,NA,FALSE
-1575,cardio-,prefisa tecnical medica,cor,cardio- (heart),NA,NA,cardio- (cœur),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) שקשור בלב,NA,NA,FALSE
-8739,taci-,prefisa tecnical,rapida,tachy- (rapid),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-3100,endo-,prefisa tecnical,en,endo- (inside),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-1939,com-,prefisa tecnical,con,com- (with,NA,NA,com- (avec,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) עם,NA,NA,FALSE
-2949,-edro,sufisa nom matematica,nominte solidas jeometrial,-hedron (geometric solid),NA,NA,-èdre (face d'un volume géométrique),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) צורה גאומטרית,NA,NA,FALSE
-2402,cuasi-,prefisa tecnical,cuasi,quasi-,NA,NA,quasi-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) קרוב ל,NA,NA,FALSE
-3159,entre-,prefisa tecnical,entre,inter- (between),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-623,artro-,prefisa tecnical,juntas de corpo,arthro-,NA,NA,arthro-,NA,NA,NA,de elinica arthron (junta),NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) שקשור למפרקים,NA,NA,FALSE
-3451,-fajia,sufisa nom medica,come,-phagia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-3874,-gama,sufisa ajetivo siensa-umana biolojia,sposi,-gamous,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-3678,-fon,sufisa nom fisica arte util,sona,-phone (sound),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-9891,zo-,prefisa tecnical,animales,zoo- (animal),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
-2527,deca-,prefisa tecnical,(un mesura) multiplida par 10,deca- (ten),NA,NA,déca- (dix),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,(קידומת טכנית) עשר,NA,ru: приставка со значением десятикратного увеличения,FALSE
-1209,bon-,prefisa,ajuntada a un verbo per formi un verbo per un ata plu bon,good-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,bonodori; bondise,NA,NA,NA,NA,he: (קידומת) בצורה טובה,NA,NA,FALSE
-545,arci-,prefisa tecnical,xef,archi-,NA,archi-,archi-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) ראשי,NA,NA,FALSE
-3056,-emia,sufisa nom medica,disturba medical de sangue,-emia|ae (blood),NA,NA,-émie,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) מחלת דם,NA,NA,FALSE
-3031,emato-,prefisa tecnical medica,sangue,hemato-|ae (blood),NA,NA,hémato- (sang),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) דם,NA,NA,FALSE
+word,gramatica,defini,en,eo,es,fr,capital,nota,vide,orijina,tasonomia,pronuncia,simbol,usa,an,da,de,gl,he,mt,ru,common
+de-,prefisa tecnical,de,de-,NA,NA,dé-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,(קידומת טכנית) מ-,NA,ru: (приставка соответствующая русским) от,TRUE
+auto-,prefisa,ajuntante la idea de automati o de pertine a se mesma,auto-,NA,NA,auto- (préfixe),NA,NA,NA,de elinica autos (me mesma),NA,NA,NA,autopilote; autodestrui,NA,NA,NA,NA,he: (קידומת) אוטומציה; ביחס לעצמו,NA,NA,TRUE
+dis-,prefisa tecnical,mal,dys- (bad,NA,NA,dys- (mal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) רע,NA,NA,TRUE
+-ia,sufisa nom,ajuntada a un ajetivo o nom per nomi la cualia astrata de es tal; ajuntada a nomes de postos (e cosas simil) per nomi la estende de la posto en tempo o spasio,-ness,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,felisia; en mea enfantia; la jornal de la bispia,NA,NA,NA,NA,NA,NA,NA,TRUE
+-i,sufisa verbo nontransitiva,ajuntada a un ajetivo o nom per formi un verbo nontransitiva per la ata de deveni tal,become,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,la acua profondi; la visitores grupi,NA,NA,NA,NA,NA,NA,NA,TRUE
+-eta,sufisa verbo,ajuntada a un verbo per formi un otra verbo indicante la mesma ata en modo min intensa,(weaker variant) -le,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,pluveta,NA,NA,NA,NA,NA,NA,NA,TRUE
+-da,sufisa ajetivo,ajuntada a un verbo per formi la partisipio pasiva,-ed,NA,-ado,-é|-ée,NA,La partisipio pasiva es un ajetivo cual indica ce on fa (o ia fa) la ata de la verbo a la person o cosa cual la partisipio descrive (un mesaje ascondeda es un mesaje cual on ia asconde). On usa lo ance como un nom,NA,NA,NA,NA,NA,ascondeda; tu ia asconde un mesaje e me ia trova tua mesaje ascondeda; la mesaje ia es ascondeda,NA,NA,NA,NA,he: (סיומת) בינוני פעול (צורות פעול,NA,NA,TRUE
+-able,sufisa ajetivo,ajuntada a un verbo transitiva per formi un ajetivo descrivente un person o cosa a cual on pote fa la ata,-able,-ebla,-able,-able,NA,NA,NA,NA,NA,NA,NA,comable; lejable; lodable; notable; vidable,NA,NA,NA,NA,he: (סיומת) ניתן ל,NA,NA,TRUE
+-an,sufisa nom cimica,idrocarbono saturada,-an (saturated hydrocarbon),NA,NA,-ane (hydrocarbure saturé),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) פחמימה רוויה,NA,NA,TRUE
+-a,sufisa nom,ajuntada a alga nomes mas con la coda `-o` per nomi la fema corespondente; ajuntada a la nom de un arbor con la coda `-o` per formi la nom de sua fruta o noza,female; fruit,NA,femenino,féminin,NA,NA,-o,NA,NA,NA,NA,tio/tia; pero/pera; oranio/orania,NA,NA,NA,NA,he: (סיומת) הצורה הנקבית (במילים מסוימות),NA,NA,TRUE
+-o,sufisa nom,ajuntada a alga nomes fema con la coda `-a` per nomi la mas corespondente; ajuntada a la nom de un fruta con la coda `-a` per nomi sua arbor,male; tree,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,ava/avo; poma/pomo,NA,NA,NA,NA,NA,NA,NA,TRUE
+-ador,sufisa nom util,ajuntada per nomi un macina o util (o,-er (tool,-ilo,NA,-ateur,NA,NA,NA,NA,NA,NA,NA,computador; cloador; silentador; inibador,NA,NA,NA,NA,he: (סיומת) מכשיר או כלי,NA,NA,TRUE
+anti-,prefisa,ajuntada a ajetivos e nomes per formi ajetivos de oposa o ataca,anti- (opposition),NA,NA,anti-,NA,NA,NA,de elinica anti- (contra),NA,NA,NA,antisosial; antiavional; antifungal; antieroe; antiproton,NA,NA,NA,NA,he: (קידומת) נגד,NA,NA,TRUE
+-esa,sufisa nom,ajuntada a un nom per crea un titulo formal per un fem,-ess (formal female title),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,prinsesa,NA,NA,NA,NA,NA,NA,NA,TRUE
+-eria,sufisa nom,ajuntada a un verbo,-ery,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,refineria; paneria; monceria; beleria,NA,NA,NA,NA,NA,NA,NA,TRUE
+-eta,sufisa nom,ajuntada a un nom per nomi un varia plu peti,(smaller or simpler variant) -ette,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,caseta; gradeta; boveta; camiseta; sibileta,NA,NA,NA,NA,NA,NA,NA,TRUE
+-an,sufisa nom,nominte un abitor o lingua de un rejion spesifada,-an,NA,NA,-ain,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת) אדם ששייך לעם או דובר השפה,NA,NA,TRUE
+-an,sufisa ajetivo,ajuntada a un nom jeografial per formi un ajetivo pertinente a la loca,-an,NA,NA,-ain,NA,NA,-es,NA,NA,NA,NA,italian; suburban; victorian,NA,NA,NA,NA,he: (סיומת) ששייך למקום או לעם,NA,NA,TRUE
+-in,sufisa ajetivo,ajuntada a un ajetivo o nom per formi un ajetivo descrivente un person o cosa con cualias o tendes simil,-ish,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,amin; serpentin,NA,NA,NA,NA,NA,NA,NA,TRUE
+emo-,prefisa tecnical medica biolojia,sangue,hemo-|ae (blood),NA,NA,hémo- (sang),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) דם,NA,NA,FALSE
+ecto-,prefisa tecnical,(un mesura) multiplida par 100,hecto- (hundred),NA,NA,hecto- (cent),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) מאה,NA,NA,FALSE
+emi-,prefisa tecnical,dui,hemi-,NA,NA,semi-,NA,NA,semi-,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) חצי,NA,NA,FALSE
+aracno-,prefisa tecnical,arania,arachno- (spider),NA,NA,arachno-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) שקשור לעכבישים,NA,NA,FALSE
+cata-,prefisa tecnical,a su,cata-,NA,NA,cata- (vers le bas),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) כלפי מטה,NA,NA,FALSE
+narco-,prefisa tecnical,nonsensosa,narco- (stupor),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-aljia,sufisa nom medica,dole,-algia (pain),NA,NA,-algie,NA,NA,NA,de elinica algos (dole),NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) שקשור לכאב,NA,NA,FALSE
+-jenese,sufisa nom medica biolojia siensa-umana,causa o orijina,-genesis (origin),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-ase,sufisa nom cimica,enzima,-ase (enzyme),NA,NA,-ase (enzyme),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) אנזים,NA,NA,FALSE
+-filia,sufisa nom siensa-umana,ama,-philia (love),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+bi-,prefisa tecnical,a du veses,bi-,NA,NA,bi-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) פעמיים,NA,NA,FALSE
+jeo-,prefisa tecnical,tera,geo- (Earth),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-ase,sufisa nom medica,maladia,-asis (medical),NA,NA,-ase (médecine),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) מחלה,NA,NA,FALSE
+fono-,prefisa tecnical fisica arte util,sona,phono-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+demo-,prefisa tecnical,popla,demo- (people),NA,NA,démo- (peuple),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) אוכלוסייה,NA,NA,FALSE
+a-,prefisa tecnical,non-,a-,NA,a-,a-,NA,NA,NA,de elenica a- (no,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) ללא,NA,NA,FALSE
+coraco-,prefisa tecnical anatomia medica,oncin,coraco-,NA,NA,coraco- (en crochet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) דמוי קרס,NA,NA,FALSE
+-emia,sufisa nom medica,disturba medical de sangue,-emia|ae (blood),NA,NA,-émie,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) מחלת דם,NA,NA,FALSE
+-agra,sufisa nom medica,dole subita,-agra (pain),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) כאב פתאומי,NA,NA,FALSE
+et-,prefisa tecnical cimica,nominte alcanos e otra idrocarbonos con du atomes de carbono,eth- (chemistry),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+endo-,prefisa tecnical,en,endo- (inside),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+arceo-,prefisa tecnical,antica,archeo-|ae,NA,NA,archéo-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) עתיק,NA,NA,FALSE
+-astenia,sufisa nom medica,debilia,-asthenia,NA,NA,-asthénie,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) שקשור לחולשה,NA,NA,FALSE
+-ectomia,sufisa nom medica,estrae sirurjial,-ectomy (surgery),NA,NA,-ectomie (chirurgie),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) הסרה בניתוח,NA,NA,FALSE
+-crin,sufisa ajetivo biolojia medica,secrete,-crine (secreting),NA,NA,-crine (sécrétion),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) מפריש,NA,NA,FALSE
+contra-,prefisa tecnical,contra,contra-,NA,NA,contra-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) נגד,NA,NA,FALSE
+cripto-,prefisa tecnical,secreta,crypto-,NA,NA,crypto-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) סודי,NA,NA,FALSE
+braci-,prefisa tecnical,corta,brachy- (short),NA,NA,brachy- (court),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) קצר,NA,NA,FALSE
+apo-,prefisa tecnical,a via de,apo-,NA,NA,apo- (préfixe),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) מ-,NA,NA,FALSE
+-es,sufisa nom,nominte un abitor o lingua de un rejion spesifada,-ese,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+dura-,prefisa tecnical,dur,dura- (hard),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) קשה,NA,NA,FALSE
+astro-,prefisa tecnical astronomia,stelas,astro-,NA,NA,astro-,NA,NA,NA,de elinica aster (stela),NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) שקשור לכוכבים,NA,NA,FALSE
+zo-,prefisa tecnical,animales,zoo- (animal),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-fobia,sufisa nom siensa-umana,teme,-phobia (fear),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-faje,sufisa nom biolojia medica,comor,-phage (eater),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+andro-,prefisa tecnical siensa-umana,mas,andro- (male),NA,NA,andro-,NA,NA,NA,de elinica andr- (om),NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) שקשור למין זכר,NA,NA,FALSE
+cilo-,prefisa tecnical,(un mesura) multiplida par 1000,kilo-,NA,NA,kilo- (mille),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) קילו-,NA,NA,FALSE
+diplo-,prefisa tecnical,duple,diplo- (double),NA,NA,diplo- (double),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) כפול,NA,NA,FALSE
+exa-,prefisa tecnical,{10^18},exa-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-fon,sufisa nom fisica arte util,sona,-phone (sound),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+cloro-,prefisa tecnical,verde,chloro-,NA,NA,chloro- (chimie),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) ירוק,NA,NA,FALSE
+com-,prefisa tecnical,con,com- (with,NA,NA,com- (avec,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) עם,NA,NA,FALSE
+-cardia,sufisa nom medica,cor,-cardia (heart),NA,NA,-cardie (cœur),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) שקשור בלב,NA,NA,FALSE
+amnio-,prefisa tecnical medica,amnio,amnio-,NA,NA,amnio-,NA,NA,NA,de elinica amnos (amnio),NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) ששייך לשפיר,NA,NA,FALSE
+estra-,prefisa tecnical,a estra,extra- (outer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+but-,prefisa tecnical cimica,nominte alcanos e otra idrocarbonos con cuatro atomes de carbono,but- (chemistry),NA,NA,but- (chimie,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) אלקן בעל 4 אטומי פחמן,NA,NA,FALSE
+femto-,prefisa tecnical,{10^-15},femto-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+des-,prefisa verbo,ajuntada a un verbo per nomi la reversa de un ata,dis-,NA,NA,dé-,NA,`Des-` simpli a `de-` ante S,NA,NA,NA,NA,NA,descarga; dejela,NA,NA,NA,NA,he: (קידומת) הפעולה ההפוכה,NA,NA,FALSE
+-es,sufisa ajetivo,ajuntada a un nom jeografial per formi un ajetivo pertinente a la loca,-ese,NA,NA,NA,NA,NA,-an,NA,NA,NA,NA,nederlandes,NA,NA,NA,NA,NA,NA,NA,FALSE
+acua-,prefisa tecnical,acua,aqua-,NA,NA,aqua-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת) שקשור למים,NA,NA,FALSE
+ato-,prefisa tecnical,{10^-18},atto-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-gama,sufisa ajetivo siensa-umana biolojia,sposi,-gamous,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+eta-,prefisa tecnical,sete,hepta- (seven),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+ecto-,prefisa tecnical,estra,ecto- (outside),NA,NA,ecto- (dehors),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) חיצוני,NA,NA,FALSE
+cuatro-,prefisa tecnical,cuatro,quadr-,NA,NA,quadr-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) ארבע,NA,NA,FALSE
+eritro-,prefisa tecnical,roja,erythro- (red),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+epi-,prefisa tecnical,sur,epi-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-ato,sufisa nom cimica,un sal de un asida de cual sua nom fini con `-ica`,-ate (chemistry),NA,NA,-ate (suffixe ; chimie),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) מלח,NA,NA,FALSE
+fago-,prefisa tecnical,come,phago- (eating),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+eu-,prefisa tecnical,bon,eu- (good),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+anjio-,prefisa tecnical medica,dutos sangual,angio- (blood vessels),NA,NA,angio- (vaisseaux sanguins),NA,NA,NA,de elinica angeion (vaso,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) שקשור לכלי הדם,NA,NA,FALSE
+-en,sufisa nom cimica,idrocarbono nonsaturada,-ene (chemistry),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+ana-,prefisa tecnical cimica biolojia,a supra,ana-,NA,NA,ana-,NA,NA,NA,de elinica ana- (a supra),NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) שוב,NA,NA,FALSE
+cuasi-,prefisa tecnical,cuasi,quasi-,NA,NA,quasi-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) קרוב ל,NA,NA,FALSE
+foto-,prefisa tecnical,lus o fotografia,photo- (light,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-foria,sufisa nom siensa-umana medica,senti o emosia,-phoria (feeling),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+desi-,prefisa tecnical,un desi de,deci- (a tenth),NA,NA,déci- (un dixième d'unité),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) עשירית,NA,NA,FALSE
+amfi-,prefisa tecnical,ambos,amphi-,NA,NA,amphi-,NA,NA,NA,de elinica amphi- (ambos,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) שני הצדדים,NA,NA,FALSE
+-edro,sufisa nom matematica,nominte solidas jeometrial,-hedron (geometric solid),NA,NA,-èdre (face d'un volume géométrique),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) צורה גאומטרית,NA,NA,FALSE
+dolico-,prefisa tecnical,longa,dolicho- (long),NA,NA,dolicho- (long),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) ארוך,NA,NA,FALSE
+alo-,prefisa tecnical,otra,allo- (other),NA,NA,allo-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) אחר או נוסף,NA,NA,FALSE
+-forma,sufisa ajetivo biolojia medica matematica,con forma de,-form,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-ente,sufisa ajetivo,ajuntada a un verbo per formi la partisipio ativa,-ing,NA,NA,NA,NA,Esta varia de `-nte` es usada sola con la verbo `es`. :: This variant of `-nte` is only used with the verb `es`.,NA,NA,NA,NA,NA,esente,NA,NA,NA,NA,NA,NA,NA,FALSE
+nano-,prefisa tecnical,multe peti; {10^-9},nano- (tiny,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+deca-,prefisa tecnical,(un mesura) multiplida par 10,deca- (ten),NA,NA,déca- (dix),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,(קידומת טכנית) עשר,NA,ru: приставка со значением десятикратного увеличения,FALSE
+taci-,prefisa tecnical,rapida,tachy- (rapid),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+entre-,prefisa tecnical,entre,inter- (between),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-fajia,sufisa nom medica,come,-phagia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+co-,prefisa tecnical,con,co- (with,NA,NA,co- (avec,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) עם,NA,NA,FALSE
+amil-,prefisa tecnical biolojia,amidon,amyl-,NA,NA,amyl-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) שקשור לעמילן,NA,NA,FALSE
+filo-,prefisa tecnical,ama de,philo- (love),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+ante-,prefisa tecnical,ante,ante-,NA,NA,anté-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) לפני,NA,NA,FALSE
+aplo-,prefisa tecnical,solitar,haplo- (single),NA,NA,haplo- (simple),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) יחיד,NA,NA,FALSE
+crico-,prefisa tecnical anatomia medica,con forma de anelo,crico-,NA,NA,crico-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) דמוי טבעת,NA,NA,FALSE
+antropo-,prefisa tecnical,umanas,anthropo-,NA,NA,anthropo-,NA,NA,NA,de elinica anthropos (umana),NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) שקשור בבני אדם,NA,NA,FALSE
+bio-,prefisa tecnical,vive e organismes,bio-,NA,NA,bio- (relatif au vivant),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) ביו-,NA,NA,FALSE
+-atresia,sufisa nom medica,la asentia,-atresia (medical),NA,NA,-atrésie (médecine),NA,NA,NA,de elinica a- (sin) tresis (perfora),NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) חסימה של פתח בגוף,NA,NA,FALSE
+-emese,sufisa nom medica,vomiti,-emesis (vomiting),NA,NA,-émèse (vomir),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) הקאה,NA,NA,FALSE
+etero-,prefisa tecnical,diferente,hetero- (different),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+bradi-,prefisa tecnical,lenta,brady- (slow),NA,NA,brady- (lent),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) לאט,NA,NA,FALSE
+es-,prefisa tecnical,estra,ex- (outside),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-jen,sufisa ajetivo medica biolojia siensa-umana,produinte o produida par; pertinente a jenes,-genic (producing),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+dia-,prefisa tecnical,tra,dia-,NA,NA,dia-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) דרך,NA,NA,FALSE
+-es,sufisa,ajuntada per plurali un nom cual fini con un consonante,-s (plural of noun that ends in a consonant),NA,NA,NA,NA,NA,-s,NA,NA,NA,NA,canes,NA,NA,NA,NA,NA,NA,NA,FALSE
+aniso-,prefisa tecnical,diferente,aniso- (unequal),NA,NA,aniso- (inégal),NA,NA,NA,de elinica anisos (nonegal),NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) שונה,NA,NA,FALSE
+eco-,prefisa tecnical,pertinente a ecolojia,eco-,NA,NA,éco-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) שקשור באקולוגיה,NA,NA,FALSE
+cardio-,prefisa tecnical medica,cor,cardio- (heart),NA,NA,cardio- (cœur),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) שקשור בלב,NA,NA,FALSE
+con-,prefisa tecnical,con,con- (with,NA,NA,con- (avec,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) עם,NA,NA,FALSE
+esa-,prefisa tecnical,ses,hex- (six),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-fonia,sufisa nom fisica arte medica,sona o vose,-phony (sound),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+biblio-,prefisa tecnical,libros,biblio-,NA,NA,biblio- (relatif aux livres),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) שקשור בספרים,NA,NA,FALSE
+artro-,prefisa tecnical,juntas de corpo,arthro-,NA,NA,arthro-,NA,NA,NA,de elinica arthron (junta),NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) שקשור למפרקים,NA,NA,FALSE
+apto-,prefisa tecnical,juntante,hapto- (attachment),NA,NA,hapto- (préfixe),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) צמוד,NA,NA,FALSE
+bon-,prefisa,ajuntada a un verbo per formi un verbo per un ata plu bon,good-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,bonodori; bondise,NA,NA,NA,NA,he: (קידומת) בצורה טובה,NA,NA,FALSE
+eso-,prefisa tecnical,estra,eso-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+di-,prefisa tecnical,du,di- (two),NA,NA,di- (deux),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) שניים,NA,NA,FALSE
+emato-,prefisa tecnical medica,sangue,hemato-|ae (blood),NA,NA,hémato- (sang),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) דם,NA,NA,FALSE
+crono-,prefisa tecnical,tempo,chrono-,NA,NA,chrono-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) זמן,NA,NA,FALSE
+-s,sufisa,ajuntada per plurali un nom cual fini con un vocal,-s (plural of noun that ends in a vowel),NA,NA,NA,NA,NA,-es,NA,NA,NA,NA,gatos,NA,NA,NA,NA,NA,NA,NA,FALSE
+-andria,sufisa nom siensa-umana,mas,-andry,NA,NA,-andrie,NA,NA,NA,de elinica andr- (om),NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) שקשור למין זכר,NA,NA,FALSE
+enea-,prefisa matematica,nove,ennea-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+cuatri-,prefisa tecnical,un cuatri de,quarter-,NA,NA,quart,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) רבע,NA,NA,FALSE
+ambi-,prefisa tecnical,ambos,ambi-,NA,NA,ambi-,NA,NA,NA,de latina ambi- (ambos),NA,NA,NA,NA,NA,NA,NA,NA,he: (סיומת טכנית) שני הצדדים,NA,NA,FALSE
+-fise,sufisa nom medica,crese,-physis (growth),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+arci-,prefisa tecnical,xef,archi-,NA,archi-,archi-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) ראשי,NA,NA,FALSE
+ecui-,prefisa tecnical,egal,equi-,NA,NA,équi-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) שווה,NA,NA,FALSE
+en-,prefisa tecnical,en,en-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+cromo-,prefisa tecnical,color,chromo-,NA,NA,chromo-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,he: (קידומת טכנית) צבע,NA,NA,FALSE
+-sce,sufisa ajetivo,ajuntada a un nom jeografial per formi un ajetivo pertinente a la loca,NA,NA,NA,NA,NA,NA,-an,NA,NA,NA,NA,rusce; norsce,NA,NA,NA,NA,NA,NA,NA,TRUE
+-uple,sufisa nom,ajuntada a un numero per nomi un grupo con acel cuantia de membros,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+-i,sufisa verbo transitiva,ajuntada a un cuanti peti de nomes per formi un verbo transitiva per la ata de emete (un licuida corpal),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,urini; vomiti sangue,NA,NA,NA,NA,NA,NA,NA,TRUE
+-i,sufisa nom,nominte un abitor o lingua de un rejion spesifada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+-uple,sufisa ajetivo,ajuntada a un numero per formi un ajetivo multiple,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,duple,NA,NA,NA,NA,NA,NA,NA,TRUE
+-osa,sufisa nom cimica,zucar o otra carboidrato,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+-ia,sufisa nom medica,maladia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+re-,prefisa verbo,ajuntada a un verbo per ajunta la idea `denova`,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,recomensa,NA,NA,NA,NA,NA,NA,NA,TRUE
+-or,sufisa nom,ajuntada per nomi un person ci fa la ata de un verbo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,joglor; xapor; modernor,NA,NA,NA,NA,NA,NA,NA,TRUE
+non-,prefisa,ajuntada a un ajetivo per reversa la cualia,NA,NA,NA,NA,NA,Ante N,NA,NA,NA,NA,NA,nonjusta; noncrede; nonesesada,NA,NA,NA,NA,NA,NA,NA,TRUE
+mal-,prefisa,ajuntada a un verbo per formi un verbo per un ata plu mal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,malodori; maldise,NA,NA,NA,NA,NA,NA,NA,TRUE
+-i,sufisa ajetivo,ajuntada a un nom jeografial per formi un ajetivo pertinente a la loca,NA,NA,NA,NA,NA,NA,-an,NA,NA,NA,NA,arabi,NA,NA,NA,NA,NA,NA,NA,TRUE
+-ica,sufisa ajetivo medica,ajuntada a un nom de un maladia medical o psicolojial con la coda `-ia`,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,alerjica,NA,NA,NA,NA,NA,NA,NA,TRUE
+-i,sufisa verbo transitiva,ajuntada a un nom per formi un verbo transitiva per la ata de usa (un util) o aplica (un materia),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,el botoni sua jacon; me va telefoni la detalias a tu; on ia pinti la mur; me va buri la pan,NA,NA,NA,NA,NA,NA,NA,TRUE
+-ica,sufisa nom cimica,indicante un valentia plu alta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+-ica,sufisa ajetivo,ajuntada a un nom jeografial per formi un ajetivo pertinente a la loca,NA,NA,NA,NA,NA,NA,-an,NA,NA,NA,NA,cimrica,NA,NA,NA,NA,NA,NA,NA,TRUE
+-on,sufisa nom fisica cimica,particula suatomal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,neutron; foton; codon; interferon,NA,NA,NA,NA,NA,NA,NA,TRUE
+-nte,sufisa ajetivo,ajuntada a un verbo per formi la partisipio ativa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,un can dorminte; leje es divertinte,NA,NA,NA,NA,NA,NA,NA,TRUE
+-in,sufisa nom cimica,idrocarbono nonsaturada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+-ica,sufisa nom,nominte un abitor o lingua de un rejion spesifada,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+-sce,sufisa nom,nominte un abitor o lingua de un rejion o nasion,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+-isme,sufisa nom,ajuntada a un nom per nomi un sistem de crede,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,femisme; otimisme; simbolisme; turisme,NA,NA,NA,NA,NA,NA,NA,TRUE
+pre-,prefisa,ante,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,previde,NA,NA,NA,NA,NA,NA,NA,TRUE
+-iste,sufisa ajetivo,ajuntada a un nom per nomi un aderor de un sistem de crede o un person prejudosa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,femiste; otimiste; jeolojiste; gitariste; jornaliste; turiste,NA,NA,NA,NA,NA,NA,NA,TRUE
+-osa,sufisa ajetivo,plen de o con multe de (un cosa o cualia),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,zucarosa,NA,NA,NA,NA,NA,NA,NA,TRUE
+-on,sufisa nom,ajuntada a un nom per nomi un varia plu grande o un veste plu esterna,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cason; denton; jacon,NA,NA,NA,NA,NA,NA,NA,TRUE
+inter-,prefisa tecnical,entre,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,interata,NA,NA,NA,NA,NA,NA,NA,TRUE
+glico-,prefisa tecnical,pertinente a o produinte zucar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+sin-,prefisa tecnical,con,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+meta-,prefisa tecnical,indicante un nivel plu alta o transendente; ance usada en modos diversa en termas tecnical,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+met-,prefisa tecnical cimica,nominte alcanos e otra idrocarbonos con un atom de carbono,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-spasma,sufisa nom medica,spasma,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-pepsia,sufisa nom medica,dijesta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+idro-,prefisa tecnical,acua,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+moto-,prefisa tecnical,motorida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+ister-,prefisa tecnical,utero,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-sofia,sufisa nom,sajia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-lisica,sufisa ajetivo medica,desintegra de un selula,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-megalia,sufisa nom medica,grandia plu ca normal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-poiese,sufisa nom medica,formi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+leuco-,prefisa tecnical,blanca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-site,sufisa nom medica biolojia,selula matur,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+supra-,prefisa,supra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,suprasil; supraumana,NA,NA,NA,NA,NA,NA,NA,FALSE
+mega-,prefisa tecnical,grande; {10^6},NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+uni-,prefisa tecnical,un,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+per-,prefisa tecnical,tra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-ona,sufisa nom cimica,composadas diversa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+pan-,prefisa tecnical,incluinte tota,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-gloso,sufisa tecnical anatomia medica,con forma de lingua,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-tripsia,sufisa nom medica,crase en sirurjia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-lito,sufisa nom tecnical,petra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-ose,sufisa nom medica,maladia o prosede medical,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+macro-,prefisa tecnical,grande,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-stase,sufisa nom,restante en loca o state,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-sele,sufisa nom medica,inflante,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-graf,sufisa nom util arte matematica,un aparato per scrive o desinia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+pneumo-,prefisa tecnical,aira,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+in-,prefisa,en,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+morfo-,prefisa tecnical,forma,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+topo-,prefisa tecnical,surfas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-stenose,sufisa nom medica,streti nonormal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+ultra-,prefisa tecnical,ultra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-metria,sufisa nom matematica,mesura,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+servo-,prefisa tecnical,servomacina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+pedo-,prefisa tecnical,enfantes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+siber-,prefisa tecnical,redes de comunica eletronical e realia virtual,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+intro-,prefisa tecnical,en,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-porose,sufisa nom medica,porosa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-odinia,sufisa nom medica,indicante un dole,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+para-,prefisa tecnical,a un lado de,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+media-,prefisa,ajuntada a un nom de un periodo o estende per nomi la punto media,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,mediadia,NA,NA,NA,NA,NA,NA,NA,FALSE
+-litica,sufisa,pertinente a petra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+pro-,prefisa,a ante,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+im-,prefisa,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+sarco-,prefisa tecnical medica biolojia,carne de corpo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-iase,sufisa nom medica,maladia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+poli-,prefisa tecnical,multe,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+tetra-,prefisa tecnical,cuatro,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-il,sufisa nom cimica,un radical cimical,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+giga-,prefisa,{10^9},NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-patia,sufisa nom medica,dole o otra state medical,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-lise,sufisa nom cimica medica,descomposa o desintegra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+reumato-,prefisa tecnical medica,licuida de corpo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-metre,sufisa nom util,util o aparato de mesura,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-sentese,sufisa nom medica,perfora sirurjial per aspira licuida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+sosio-,prefisa tecnical,pertinente a sosia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+sefalo-,prefisa tecnical,testa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+megalo-,prefisa tecnical,nonormal grande,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+tecno-,prefisa tecnical,tecnolojia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+xilo-,prefisa tecnical,lenio,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-plasma,sufisa nom medica,masa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-sepse,sufisa nom medica,infeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+stilo-,prefisa tecnical anatomia medica,con forma de pen o stilo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-praxia,sufisa nom medica,ativia pratical,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+piro-,prefisa tecnical,foco,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+oligo-,prefisa tecnical,con poca partes o membros,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-uria,sufisa nom medica,urina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+tera-,prefisa tecnical,{10^12},NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-ol,sufisa nom cimica,olios,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+su-,prefisa,su,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,sutera; sudivide,NA,NA,NA,NA,NA,NA,NA,FALSE
+-morfe,sufisa ajetivo medica biolojia,forma,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+zepto-,prefisa tecnical,{10^-21},NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+penta-,prefisa tecnical,sinco,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+prop-,prefisa tecnical cimica,nominte alcanos e otra idrocarbonos con tre atomes de carbono,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+iso-,prefisa tecnical,egal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-tosia,sufisa nom medica,pari,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-tome,sufisa nom util medica,strumento sirurjial per talia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+lipo-,prefisa tecnical,gras,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+onto-,prefisa tecnical,esiste o sustantia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+necro-,prefisa tecnical biolojia,mor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+semi-,prefisa tecnical,dui,NA,NA,NA,NA,NA,NA,emi-,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-noide,sufisa ajetivo medica siensa-umana,mente,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-aferese,sufisa nom medica,sutrae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+xero-,prefisa tecnical,seca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+scizo-,prefisa medica siensa-umana,fendeda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-rea,sufisa nom medica,esflue (medical),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+pneumato-,prefisa tecnical,aira,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+jino-,prefisa tecnical,fema,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-scopi,sufisa nom medica,esamina par vide,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-raje,sufisa nom medica,esflue violente,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-grafia,sufisa nom arte matematica,la siensa de scrive o desinia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-iside,sufisa verbo,mata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+stereo-,prefisa,pertinente a formas solida; pertinente a un efeto o ordina tridimensional,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+zeta-,prefisa tecnical,{10^21},NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+omeo-,prefisa tecnical,la mesma,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-opsia,sufisa nom medica,prosede de esamina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-sarcoma,sufisa nom medica,sarcoma,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-tise,sufisa nom medica,sputa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+psico-,prefisa tecnical,mente,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+melano-,prefisa tecnical,negra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-ivor,sufisa ajetivo biolojia,comente,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+retro-,prefisa,a retro,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,retrosede,NA,NA,NA,NA,NA,NA,NA,FALSE
+lito-,prefisa tecnical,petra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+neo-,prefisa tecnical,nova,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-ido,sufisa nom cimica,un composada de sal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+orto-,prefisa tecnical,reta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-lojia,sufisa nom,studia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+iota-,prefisa tecnical,{10^24},NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+gloso-,prefisa tecnical anatomia medica,con forma de lingua,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+pico-,prefisa tecnical,{10^-12},NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+pleo-,prefisa tecnical,plu ca normal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-scopio,sufisa nom util medica astronomia biolojia,strumento estendente la capasia de vide,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+iper-,prefisa tecnical,supra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-opia,sufisa nom medica,maladia de oio,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+olo-,prefisa tecnical,intera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-tris,sufisa nom medica biolojia,capeles,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+proto-,prefisa tecnical,prima,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-nesia,sufisa nom tera,isolas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+mini-,prefisa tecnical,la plu peti cual es posible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-lesia,sufisa nom medica,atacas de la sistem de nervos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+oti-,prefisa tecnical,un oti de,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+meso-,prefisa tecnical,media,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+in-,prefisa,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+logo-,prefisa tecnical,parolas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-pnea,sufisa nom medica,respira,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+mio-,prefisa tecnical,musculos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+neuro-,prefisa tecnical biolojia,sistem de nervos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+trans-,prefisa tecnical,tra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+paleo-,prefisa tecnical,vea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+senti-,prefisa tecnical,divideda par 100,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+multi-,prefisa tecnical,multe o plu ca un,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+omni-,prefisa tecnical,tota,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+nefro-,prefisa tecnical,renes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+ovi-,prefisa tecnical,ovo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+turbo-,prefisa util,pertinente a la funsiona de un turbo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+tele-,prefisa tecnical,distante,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+ipo-,prefisa tecnical,su,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-stomia,sufisa nom medica,abri sirurjial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+miso-,prefisa tecnical,odiosa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+tasi-,prefisa tecnical,posa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-penia,sufisa nom medica,manca de un cosa esensal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+oto-,prefisa tecnical,oto,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-pexia,sufisa nom medica siensa-umana,fisa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+mono-,prefisa tecnical,un,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+teo-,prefisa tecnical,Dio o dios,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+sis-,prefisa tecnical,a esta lado de,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-plejia,sufisa nom medica,paralise,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+vis-,prefisa nom,ajuntada a un nom de posto per nomi la suordinada direta seguente,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,visre,NA,NA,NA,NA,NA,NA,NA,FALSE
+-sclerose,sufisa nom medica,duri nonormal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-ito,sufisa nom cimica,nominte sales o esteres de asidas con la coda `-osa`,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-oide,sufisa ajetivo biolojia medica,con forma de,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-orafia,sufisa nom medica,suturi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+iocto-,prefisa tecnical,{10^-24},NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+micro-,prefisa tecnical,peti; {10^-6},NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-mania,sufisa nom siensa-umana medica,mania,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-trofia,sufisa nom medica biolojia,xercante nuri,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+pro-,prefisa tecnical,acordante con,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+infra-,prefisa tecnical,su,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+mili-,prefisa tecnical,un mili de,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+petro-,prefisa,pertinente a petra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-rexe,sufisa nom medica,creve,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-tose,sufisa nom medica,pendente; prolaso,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-ite,sufisa nom medica,maladia de inflama,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+tera-,prefisa tecnical,pertinente a la tera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-scise,sufisa nom medica,fende,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+sclero-,prefisa tecnical medica,dur,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+sim-,prefisa tecnical,con,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+intra-,prefisa tecnical,en,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+ipno-,prefisa tecnical,pertinente a dormi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-iatria,sufisa nom medica siensa-umana,dotores e trata medical,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+tri-,prefisa tecnical,tre,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+paci-,prefisa tecnical,densa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-plastia,sufisa nom medica,sirurjia reconstruinte,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+pato-,prefisa tecnical,maladia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+ornito-,prefisa tecnical biolojia,avia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+oftalmo-,prefisa tecnical medica,oios,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-parese,sufisa nom medica,paralise partal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+radio-,prefisa tecnical,radia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-stato,sufisa nom util,aparato per mesura,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+pos-,prefisa,pos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,posenebria; posalveolal,NA,NA,NA,NA,NA,NA,NA,FALSE
+rino-,prefisa tecnical medica,nas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-side,sufisa nom,mata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+sirco-,prefisa tecnical,sirca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+limfo-,prefisa tecnical,limfa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-gram,sufisa nom util arte matematica,un produida de un aparato scrivente,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-tomia,sufisa nom medica,talia sirurjial,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+xeno-,prefisa tecnical,stranjer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+sito-,prefisa tecnical,selula,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-oma,sufisa nom medica,tumor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+salpingo-,prefisa tecnical anatomia medica,con forma un trompeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+reti-,prefisa tecnical,reta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+euri-,prefisa tecnical,larga,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+peta-,prefisa tecnical,{10^15},NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-ifer,sufisa nom biolojia,produinte,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+termo-,prefisa tecnical,caldia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+pseudo-,prefisa tecnical,falsa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+im-,prefisa,en,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-plasia,sufisa nom medica,masa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+-stalsia,sufisa nom medica,contrae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+masi-,prefisa tecnical,la plu grande cual es posible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+peri-,prefisa tecnical,sirca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+jineco-,prefisa tecnical,fema,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+omo-,prefisa tecnical,la mesma,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+sentri-,prefisa tecnical,sentral,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE
+ptero-,prefisa tecnical,con forma de ala,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,FALSE

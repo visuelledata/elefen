@@ -30,6 +30,6 @@ dict %>%
   arrange(desc(random)) %>% 
   arrange(desc(common)) %>% 
   arrange(desc(english)) %>% 
-  filter(word != en) %>% 
-  select(-random, -english) %>% 
+  #filter(word != en) %>% 
+  select(-random, -english, -word_id) %>% 
   write_csv("elefen-affixes.csv") %>% View()
